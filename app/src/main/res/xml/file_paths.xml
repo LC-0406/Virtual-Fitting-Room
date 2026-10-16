@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- 相机拍摄的临时照片，位于 cacheDir/camera/ -->
+    <cache-path
+        name="camera_images"
+        path="camera/" />
+</paths>
